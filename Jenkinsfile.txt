@@ -4,7 +4,7 @@
 */
 node {
    //def mvnHome
-   stage('checkoutrepomaster1') { // for display purposes
+   stage('checkoutrepomaster11') { // for display purposes
       // Get some code from a GitHub repository
       sh echo("pulll code from git....repo 1");
    }
